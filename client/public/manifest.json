@@ -1,0 +1,25 @@
+{
+  "short_name": "GDC Adilpur",
+  "name": "Government Degree College Adilpur",
+  "description": "Official web portal of Government Degree College Adilpur, District Ghotki, Sindh. Explore academic degree programs, faculty directories, official notices, fee schemes, and admissions info.",
+  "icons": [
+    {
+      "src": "/gdc-logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/gdc-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0D1117",
+  "theme_color": "#1B3A5C",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/"
+}
